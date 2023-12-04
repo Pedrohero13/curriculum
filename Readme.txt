@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+# Repositorio de mi CV
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+### Este CV a sido desplegado en github.io
+
+Mas información: [Mi curriculum](https://pedrohero13.github.io/curriculum/)
